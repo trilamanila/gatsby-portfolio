@@ -11,16 +11,17 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Joncin Picol',
-  subtitle: 'React Developer',
+  subtitle: 'React FrontEnd Developer',
   cta: '',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphOne: 'Hi, my name is Joncin Picol based in Delaware.',
+  paragraphTwo: 'I am a father of two, coding has been a passion of mine for 3 years. ',
+  paragraphThree:
+    'I enjoy creating modern visually pleasing websites and have been dedicating my time replicating the most popular websites to stay on the cutting edge of frontend developement.',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
@@ -38,7 +39,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'project2.jpg',
     title: 'COVID-19 Tracker',
     info:
       'Covid-19 Tracker was created for learning purposes. Google authentication login was through Firebase with unique ID for avatar icon and messages. Backend and database stored with cloud Firestore. Real time live demo deployed with Firebase. BEM naming convention, Flexbox, numeral, and Material UI was used for styling. React Leaflet was used for the map data and React Chartjs was used for real time graph data.',
@@ -91,7 +92,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'twitter',
-      url: '',
+      url: 'www.twitter.com/joncin.picol',
     },
     {
       id: nanoid(),
@@ -101,7 +102,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'www.github.com/trilamanila',
     },
   ],
 };
