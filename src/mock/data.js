@@ -42,7 +42,7 @@ export const projectsData = [
     img: 'project2.jpg',
     title: 'COVID-19 Tracker',
     info:
-      'Covid-19 Tracker was created for learning purposes. Google authentication login was through Firebase with unique ID for avatar icon and messages. Backend and database stored with cloud Firestore. Real time live demo deployed with Firebase. BEM naming convention, Flexbox, numeral, and Material UI was used for styling. React Leaflet was used for the map data and React Chartjs was used for real time graph data.',
+      'Covid-19 Tracker gave real time data of COVID-19 cases, recovered, and deaths by connecting through an API. Responsive map with interactive circle color indicator. Live demo deployed with Firebase. BEM naming convention, Flexbox, Numeral, and Material UI was used for the styling. React Leaflet was used for the map data and React Chartjs was used for real time graph data.',
     info2: '',
     url: 'https://covid-tracker-25324.web.app',
     repo: 'https://github.com/trilamanila/covid-tracker', // if no repo, the button will not show up
@@ -56,16 +56,6 @@ export const projectsData = [
     info2: '',
     url: 'https://imessage-clone-4151b.web.app/',
     repo: 'https://github.com/trilamanila/imessage', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'project4.jpg',
-    title: 'Robinhood Clone',
-    info:
-      'Robinhood clone was created for learning purposes to better understand React. Real time live demo deployed with Firebase. Stocks data is pulled from Finhub Trading API. Flexbox and BEM class name convention was used for styling compenents.',
-    info2: '',
-    url: 'https://robinhood-a490a.web.app',
-    repo: 'https://github.com/trilamanila/robinhood', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
