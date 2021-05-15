@@ -19,14 +19,24 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'Hi, my name is Joncin Picol based in Delaware.',
-  paragraphTwo: 'I am a father of two, coding has been a passion of mine for 3 years. ',
+  paragraphTwo: 'I am a father of two and coding has been a passion of mine for 3 years. ',
   paragraphThree:
-    'I enjoy creating modern visually pleasing websites and have been dedicating my time replicating the most popular websites to stay on the cutting edge of frontend developement.',
+    'I enjoy creating modern visually pleasing websites and have been dedicating my time replicating the most popular websites to stay on the cutting edge of frontend developement. My goal is push Bitocin adoption to the mass with beautiful front end designs.',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
 export const projectsData = [
+  {
+    id: nanoid(),
+    img: 'blog.jpg',
+    title: '#100DaysOfCode Blog',
+    info:
+      '#100DaysOfCode Blog was a daily blog of my progression of learning how to code. Day 1 of the challenge was truly my first day of learning how to code back in 2018. The purpose of the blog was to retain as much information as possible by teaching myself what I learned that day. At the same time I was sharing my experience with others doing the challenge and to help keep fellow developers motivated.',
+    info2: '',
+    url: 'trilamanila.com',
+    repo: '', // if no repo, the button will not show up
+  },
   {
     id: nanoid(),
     img: 'project.jpg',
