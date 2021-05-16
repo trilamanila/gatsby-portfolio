@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'Hi, my name is Joncin Picol based in Delaware.',
-  paragraphTwo: 'I am a father of two and coding has been a passion of mine for 3 years. ',
+  paragraphTwo: 'I am a father of two and coding is a passion of mine. ',
   paragraphThree:
     'I enjoy creating modern visually pleasing websites and have been dedicating my time replicating the most popular websites to stay on the cutting edge of frontend developement. My goal is push Bitocin adoption to the mass with beautiful front end designs.',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
