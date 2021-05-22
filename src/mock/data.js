@@ -34,7 +34,7 @@ export const projectsData = [
     info:
       '#100DaysOfCode Blog was a daily blog of my progression of learning how to code. Day 1 of the challenge was truly my first day of learning how to code back in 2018. The purpose of the blog was to retain as much information as possible by teaching myself what I learned that day. At the same time I was sharing my experience with others doing the challenge and to help keep fellow developers motivated.',
     info2: '',
-    url: 'trilamanila.com',
+    url: 'https://trilamanila.com',
     repo: '', // if no repo, the button will not show up
   },
   {
