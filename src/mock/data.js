@@ -39,6 +39,15 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'blog.jpg',
+    title: 'Sky Daisy Media Sales Letter Funnel',
+    info: 'Sky Daisy Media is a website to generate sales leads through long form text messages',
+    info2: '',
+    url: 'https://skydaisymedia.com',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'project.jpg',
     title: 'Amazon Clone',
     info:
