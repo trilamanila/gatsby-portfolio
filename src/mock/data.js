@@ -39,9 +39,10 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'blog.jpg',
-    title: 'Sky Daisy Media Sales Letter Funnel',
-    info: 'Sky Daisy Media is a website to generate sales leads through long form text messages',
+    img: 'sales.jpg',
+    title: 'Sky Daisy Media Sales Funnel',
+    info:
+      'Sky Daisy Media is a sales funnel website that generates sales through long form text messages. It is a news media marketing company that helps small local businesses increase their online presence in their local area. Along with online presence it services include establishing a brand and distributes news through various news outlets. ',
     info2: '',
     url: 'https://skydaisymedia.com',
     repo: '', // if no repo, the button will not show up
